@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/maps"
+    android:enabled="true"
+    android:title="Map"
+
+    android:icon="@drawable/ic_action_name"/>
+
+    <item android:id="@+id/bus"
+        android:enabled="true"
+        android:title="Shuttle"
+
+        android:icon="@drawable/ic_bus"
+        />
+
+    <item android:id="@+id/dining"
+        android:enabled="true"
+        android:title="Dining"
+
+        android:icon="@drawable/ic_dine"
+        />
+
+    <item android:id="@+id/social"
+        android:enabled="true"
+        android:title="Social"
+
+        android:icon="@drawable/ic_social"
+        >
+
+    </item>
+</menu>

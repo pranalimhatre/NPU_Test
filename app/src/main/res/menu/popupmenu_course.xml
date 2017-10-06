@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/menu_activity"
+        android:title="Grades" />
+    <item android:id="@+id/menu_attendence"
+        android:title="Attendance" />
+    <item android:id="@+id/menu_homework"
+        android:title="Handout" />
+    <item android:id="@+id/menu_syllabus"
+        android:title="Syllabus" />
+</menu>
