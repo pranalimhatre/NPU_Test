@@ -2,32 +2,37 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
 
-    <item android:id="@+id/maps"
-    android:enabled="true"
-    android:title="Map"
-
-    android:icon="@drawable/ic_action_name"/>
-
-    <item android:id="@+id/bus"
+    <item
+        android:id="@+id/bottom_bar_menu_home_menu_item_id"
         android:enabled="true"
-        android:title="Shuttle"
+        android:title="@string/bottom_bar_menu_home_menu_item" />
+    <item
+        android:id="@+id/bottom_bar_menu_map_menu_item_id"
+        android:enabled="true"
+        android:icon="@drawable/ic_action_name"
 
+        android:title="@string/bottom_bar_menu_map_menu_item" />
+
+    <item
+        android:id="@+id/bottom_bar_menu_shuttle_menu_item_id"
+        android:enabled="true"
         android:icon="@drawable/ic_bus"
-        />
 
-    <item android:id="@+id/dining"
+        android:title="@string/bottom_bar_menu_bus_menu_item" />
+
+    <item
+        android:id="@+id/bottom_bar_menu_dining_menu_item_id"
         android:enabled="true"
-        android:title="Dining"
-
         android:icon="@drawable/ic_dine"
-        />
 
-    <item android:id="@+id/social"
+        android:title="@string/bottom_bar_menu_dining_menu_item" />
+
+    <item
+        android:id="@+id/bottom_bar_menu_social_menu_item_id"
         android:enabled="true"
-        android:title="Social"
-
         android:icon="@drawable/ic_social"
-        >
+
+        android:title="Social">
 
     </item>
 </menu>

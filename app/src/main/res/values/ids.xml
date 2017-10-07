@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="bottom_bar_menu_map_menu_item_id" type="id">mapMenuItemId</item>
+    <item name="bottom_bar_menu_shuttle_menu_item_id" type="id">shuttleMenuItemId</item>
+    <item name="bottom_bar_menu_home_menu_item_id" type="id">homeMenuItemId</item>
+    <item name="bottom_bar_menu_dining_menu_item_id" type="id">diningMenuItemId</item>
+    <item name="bottom_bar_menu_social_menu_item_id" type="id">socialMenuItemId</item>
+</resources>

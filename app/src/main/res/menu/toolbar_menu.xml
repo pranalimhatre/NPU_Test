@@ -5,6 +5,7 @@
     <item android:id="@+id/log"
         android:title="Login"
         app:showAsAction="always"
+
         android:icon="@drawable/ic_login">
     </item>
 
